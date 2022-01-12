@@ -1,1 +1,1 @@
-# python-deneme
+# python
